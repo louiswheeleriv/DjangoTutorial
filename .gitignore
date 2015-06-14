@@ -1,0 +1,4 @@
+*.pyc
+polls/*.pyc
+mysite/*.pyc
+
